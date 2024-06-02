@@ -1,2 +1,13 @@
 # WriteAlign
-WriteAlign is a powerful, open source writing tool for speeding up content writing. Whether you rely on blogs, case studies, reports or DT
+## About
+WriteAlign is a powerful, open-source writing tool for speeding up content writing. Whether you write blogs, case studies, reports, or scripts&mdash; Align your writing for the world.
+> WriteAlign is the perfect tool for breaking down complex projects into manageable pieces -Lloyd Andersen
+## Abilities
+
+
+
+## Quick Start Guide
+
+
+
+## Design and Prerequisites
