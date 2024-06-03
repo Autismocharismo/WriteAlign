@@ -1,5 +1,6 @@
 # WriteAlign
-![image](https://github.com/Autismocharismo/WriteAlign/assets/45924118/c7aafec4-db86-41d6-b79d-9453051cd53b)
+![image](https://github.com/Autismocharismo/WriteAlign/assets/45924118/dddd0614-0b50-4377-8f99-e7eea11314cc)
+
 
 
 
